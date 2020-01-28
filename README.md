@@ -12,4 +12,4 @@ README file for the Software Engineering Methods Coursework.
 
 
 
-- Release [![Releases](https://img.shields.io/github/release/ttothuk/group1_cw.svg?style=flat-square)](https://github.com/ttothuk/group1_cw/releases)
+- Release [![Releases](https://img.shields.io/github/release/ttothuk/group1_cw/all.svg?style=flat-square)](https://github.com/ttothuk/group1_cw/releases)
