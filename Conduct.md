@@ -23,6 +23,6 @@ Communication channels and documents storage:
 - Skype.
 
 Team roles:
--Product Owner is Ani.
--Scrum Master is David.
--Everyone is a team member.
+- Product Owner is Ani.
+- Scrum Master is David.
+- Everyone is a team member.
