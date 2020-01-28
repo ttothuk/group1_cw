@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f844b28d-3ac8-4549-8242-4e099c4b6c02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/napier/sem/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/napier/sem/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/seMethods-0.1.0.1-jar-with-dependencies.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/seMethods-0.1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/seMethods-0.1.0.2-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/seMethods-0.1.0.2-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/seMethods-0.1.0.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/seMethods-0.1.0.2.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +15,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Tibor Toth &lt;40400971@live.napier.ac.uk&gt;" />
         <option value="DAVIDCIOCOIU95 &lt;43348061+davidciocoiu95@users.noreply.github.com&gt;" />
       </list>
     </option>
@@ -72,8 +64,8 @@
           <option name="command" value="" />
           <option name="containerName" value="" />
           <option name="entrypoint" value="" />
-          <option name="imageTag" value="sha256:5ea6a08f7b6b4200af4b08fe50a86e91f63b7b4059e7c5281457673ca29da0fd" />
-          <option name="commandLineOptions" value="" />
+          <option name="imageTag" value="sha256:d2920a9380a155cd91f706500cdb643e42f6cc6997acf3d40118f530a04bb5b3" />
+          <option name="commandLineOptions" value="--network se-methods" />
         </settings>
       </deployment>
       <method v="2" />
@@ -91,8 +83,8 @@
       <list>
         <item itemvalue="Docker.Docker Image" />
         <item itemvalue="Docker.Dockerfile" />
-        <item itemvalue="Application.App" />
         <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Application.App" />
         <item itemvalue="Docker.Docker Image" />
       </list>
     </recent_temporary>
@@ -163,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580213461527</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ready for the review&#10;hello world app">
+      <created>1580226606307</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580226606307</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,23 +170,25 @@
     <MESSAGE value="Java code updated with mongoDB code" />
     <MESSAGE value="jar created" />
     <MESSAGE value="docker bridge updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="docker bridge updated" />
+    <MESSAGE value="ready for the review&#10;hello world app" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready for the review&#10;hello world app" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="542" y="0" key="#Docker_Image" timestamp="1580226373590">
+    <state x="542" y="0" key="#Docker_Image" timestamp="1580226825768">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="361" y="0" key="#Docker_Image/0.0.1280.680@0.0.1280.680" timestamp="1580216179885" />
-    <state x="542" y="0" key="#Docker_Image/0.0.1920.1040@0.0.1920.1040" timestamp="1580226373590" />
+    <state x="542" y="0" key="#Docker_Image/0.0.1920.1040@0.0.1920.1040" timestamp="1580226825768" />
     <state x="350" y="0" key="#Pull_Image" timestamp="1580219550443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="233" y="0" key="#Pull_Image/0.0.1280.680@0.0.1280.680" timestamp="1580212035083" />
     <state x="350" y="0" key="#Pull_Image/0.0.1920.1040@0.0.1920.1040" timestamp="1580219550443" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1580213460852">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="446" y="0" key="CommitChangelistDialog2" timestamp="1580226605404">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580213460852" />
+    <state x="446" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580226605404" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580226337521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -216,10 +217,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580212534398" />
-    <state x="233" y="75" key="Vcs.Push.Dialog.v2" timestamp="1580215947612">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="479" y="103" key="Vcs.Push.Dialog.v2" timestamp="1580226733323">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1580215947612" />
+    <state x="479" y="103" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580226733323" />
     <state x="557" y="203" key="git4idea.merge.GitPullDialog" timestamp="1580225299702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
