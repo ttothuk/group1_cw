@@ -21,3 +21,8 @@ Communication channels and documents storage:
 - Messenger group chat;
 - Google Drive;
 - Skype.
+
+Team roles:
+-Product Owner is Ani.
+-Scrum Master is David.
+-Everyone is a team member.
