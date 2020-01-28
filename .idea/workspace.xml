@@ -3,11 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="f844b28d-3ac8-4549-8242-4e099c4b6c02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/napier/sem/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/napier/sem/App.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/seMethods-0.1.0.1-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/seMethods-0.1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/seMethods-0.1.0.2-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/seMethods-0.1.0.2-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/seMethods-0.1.0.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/seMethods-0.1.0.2.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +29,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,8 +72,8 @@
           <option name="command" value="" />
           <option name="containerName" value="" />
           <option name="entrypoint" value="" />
-          <option name="imageTag" value="sha256:127292e3ddcac17179161e3b9dd55d0c7177ab772a1593c3414db37eccff5968" />
-          <option name="commandLineOptions" value="--network se-methods" />
+          <option name="imageTag" value="sha256:5ea6a08f7b6b4200af4b08fe50a86e91f63b7b4059e7c5281457673ca29da0fd" />
+          <option name="commandLineOptions" value="" />
         </settings>
       </deployment>
       <method v="2" />
@@ -77,6 +81,7 @@
     <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
       <deployment type="dockerfile">
         <settings>
+          <option name="buildOnly" value="true" />
           <option name="sourceFilePath" value="Dockerfile" />
         </settings>
       </deployment>
@@ -86,7 +91,7 @@
       <list>
         <item itemvalue="Docker.Docker Image" />
         <item itemvalue="Docker.Dockerfile" />
-        <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Application.App" />
         <item itemvalue="Docker.Docker Image" />
         <item itemvalue="Docker.Docker Image" />
       </list>
@@ -169,34 +174,40 @@
     <option name="LAST_COMMIT_MESSAGE" value="docker bridge updated" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="0" key="#Docker_Image" timestamp="1580216179885">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="542" y="0" key="#Docker_Image" timestamp="1580226373590">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="361" y="0" key="#Docker_Image/0.0.1280.680@0.0.1280.680" timestamp="1580216179885" />
-    <state x="233" y="0" key="#Pull_Image" timestamp="1580212035083">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="542" y="0" key="#Docker_Image/0.0.1920.1040@0.0.1920.1040" timestamp="1580226373590" />
+    <state x="350" y="0" key="#Pull_Image" timestamp="1580219550443">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="233" y="0" key="#Pull_Image/0.0.1280.680@0.0.1280.680" timestamp="1580212035083" />
+    <state x="350" y="0" key="#Pull_Image/0.0.1920.1040@0.0.1920.1040" timestamp="1580219550443" />
     <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1580213460852">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580213460852" />
-    <state width="1237" height="161" key="GridCell.Tab.0.bottom" timestamp="1580216095578">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580226337521">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580216095578" />
-    <state width="1237" height="161" key="GridCell.Tab.0.center" timestamp="1580216095578">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580226337521" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1580226337521">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580216095578" />
-    <state width="1237" height="161" key="GridCell.Tab.0.left" timestamp="1580216095577">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580226337521" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1580226337520">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580216095577" />
-    <state width="1237" height="161" key="GridCell.Tab.0.right" timestamp="1580216095578">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580226337520" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1580226337521">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580216095578" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580226337521" />
     <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1580212310038">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -209,9 +220,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1580215947612" />
-    <state x="371" y="133" key="git4idea.merge.GitPullDialog" timestamp="1580211938387">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="557" y="203" key="git4idea.merge.GitPullDialog" timestamp="1580225299702">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="371" y="133" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1580211938387" />
+    <state x="557" y="203" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580225299702" />
   </component>
 </project>
