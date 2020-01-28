@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f844b28d-3ac8-4549-8242-4e099c4b6c02" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580226606307</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ready for the review&#10;hello world app 2">
+      <created>1580226860968</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580226860968</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,7 +179,8 @@
     <MESSAGE value="jar created" />
     <MESSAGE value="docker bridge updated" />
     <MESSAGE value="ready for the review&#10;hello world app" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready for the review&#10;hello world app" />
+    <MESSAGE value="ready for the review&#10;hello world app 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready for the review&#10;hello world app 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="542" y="0" key="#Docker_Image" timestamp="1580226825768">
