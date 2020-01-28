@@ -16,6 +16,7 @@ to speed up communication.
 Frequency of meetings:
 - The team agrees to at least 3 meetings a week, scheduled either in person or via
 communication channels as Skype.
+
 Communication channels and documents storage:
 - Messenger group chat;
 - Google Drive;
