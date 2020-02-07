@@ -46,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RunManager" selected="Docker.Docker Image">
@@ -177,10 +178,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Pull_Image/0.0.1280.680@0.0.1280.680" timestamp="1580212035083" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1580213460852">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="446" y="0" key="CommitChangelistDialog2" timestamp="1581118020978">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580213460852" />
+    <state x="446" y="0" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1581118020978" />
     <state width="1237" height="161" key="GridCell.Tab.0.bottom" timestamp="1580216095578">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
