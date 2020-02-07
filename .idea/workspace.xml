@@ -84,8 +84,8 @@
         <item itemvalue="Docker.Dockerfile" />
         <item itemvalue="Docker.Docker Image" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Docker.Dockerfile" />
         <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -191,19 +191,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1580212310038" />
-    <state x="672" y="237" key="MultipleFileMergeDialog" timestamp="1581116321380">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="672" y="237" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1581116321380" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1580212534398">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580212534398" />
-    <state x="350" y="115" key="Vcs.Push.Dialog.v2" timestamp="1581116219166">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="233" y="75" key="Vcs.Push.Dialog.v2" timestamp="1580221450731">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1580221450731" />
-    <state x="350" y="115" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1581116219166" />
     <state x="506" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1580390570168">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -213,10 +208,6 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1581115946643" />
-    <state x="741" y="234" key="git4idea.branch.GitSmartOperationDialog" timestamp="1581116317041">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="741" y="234" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1581116317041" />
     <state x="557" y="203" key="git4idea.merge.GitPullDialog" timestamp="1581115922400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
