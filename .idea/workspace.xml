@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f844b28d-3ac8-4549-8242-4e099c4b6c02" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="f844b28d-3ac8-4549-8242-4e099c4b6c02" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +18,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="release" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -150,6 +147,17 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pom.xml file updated with dependencies" />
     <MESSAGE value="Java code updated with mongoDB code" />
@@ -167,10 +175,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Pull_Image/0.0.1280.680@0.0.1280.680" timestamp="1580212035083" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1580221290233">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="446" y="0" key="CommitChangelistDialog2" timestamp="1581118149932">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580221290233" />
+    <state x="446" y="0" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1581118149932" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1580235194927">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -191,6 +200,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1580212310038" />
+    <state x="672" y="237" key="MultipleFileMergeDialog" timestamp="1581118132375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="237" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1581118132375" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1580212534398">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
